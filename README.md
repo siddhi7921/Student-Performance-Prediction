@@ -26,3 +26,19 @@ Factors considered:
 
 ## 📂 Project Structure
 
+---
+
+## ⚡ Features
+- Predicts student results (Pass/Fail or Score)  
+- Interactive input for user-friendly testing  
+- Easy-to-understand and scalable for more data  
+- Helps teachers identify students needing extra attention  
+
+---
+
+## 🖥️ How to Run
+
+1. **Install Required Libraries**
+```bash
+pip install pandas scikit-learn matplotlib
+
