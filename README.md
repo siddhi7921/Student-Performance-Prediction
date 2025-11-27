@@ -40,5 +40,17 @@ Factors considered:
 
 1. **Install Required Libraries**
 ```bash
-pip install pandas scikit-learn matplotlib
+Enter Hours Studied: 5
+Enter Attendance (%): 80
+Enter Previous Score: 65
+Prediction: PASS ✅
+
+---
+
+This **looks professional, visually appealing**, and ready to **share on LinkedIn** alongside your GitHub link.  
+
+If you want, I can also **write a LinkedIn-ready post** specifically referencing this **README and GitHub repo** so it gets maximum engagement.  
+
+Do you want me to do that next?
+
 
