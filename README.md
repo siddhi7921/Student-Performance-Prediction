@@ -1,55 +1,31 @@
-# 🎓 Student Performance Prediction
+🎓 Student Performance Prediction
+Predicting student academic performance using Python, Machine Learning, and Data Science. This project helps identify students who may need extra guidance based on their study habits and past scores.
 
-Predicting student academic performance using **Python**, **Machine Learning**, and **Data Science**. This project helps identify students who may need extra guidance based on their study habits and past scores.
+🚀 Project Overview
+This project predicts a student’s performance (Pass/Fail or final score) using machine learning.
+Factors considered:
+- 🕒 Study Hours
+- 📊 Attendance Percentage
+- 📝 Previous Scores
 
----
+Goal: Enable data-driven decisions for teachers and students to improve academic outcomes.
 
-## 🚀 Project Overview
-This project predicts a student’s performance (Pass/Fail or final score) using machine learning.  
-Factors considered:  
+🛠️ Technologies & Tools
+- Python
+- Pandas
+- NumPy & Matplotlib
+- Scikit-learn (Machine Learning)
 
-- 🕒 Study Hours  
-- 📊 Attendance Percentage  
-- 📝 Previous Scores  
+⚡ Features
+- Predicts student results (Pass/Fail or Score)
+- Interactive input for user-friendly testing
+- Scalable for more data
+- Helps teachers identify students needing extra attention
 
-**Goal:** Enable data-driven decisions for teachers and students to improve academic outcomes.
-
----
-
-## 🛠️ Technologies & Tools
-- 🐍 **Python**  
-- 📦 **Pandas**  
-- 📈 **NumPy & Matplotlib**  
-- 🤖 **Scikit-learn** (Machine Learning)  
-
----
-
-## 📂 Project Structure
-
----
-
-## ⚡ Features
-- Predicts student results (Pass/Fail or Score)  
-- Interactive input for user-friendly testing  
-- Easy-to-understand and scalable for more data  
-- Helps teachers identify students needing extra attention  
-
----
-
-
-1. **Install Required Libraries**
+📂 Usage / Example
 ```bash
-Enter Hours Studied: 5
-Enter Attendance (%): 80
-Enter Previous Score: 65
-Prediction: PASS ✅
+# Install required libraries
+pip install pandas numpy matplotlib scikit-learn
 
----
-
-This **looks professional, visually appealing**, and ready to **share on LinkedIn** alongside your GitHub link.  
-
-If you want, I can also **write a LinkedIn-ready post** specifically referencing this **README and GitHub repo** so it gets maximum engagement.  
-
-Do you want me to do that next?
-
-
+# Run the script
+python student_performance.py
